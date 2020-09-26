@@ -1,0 +1,28 @@
+{
+  "name": "react-hook-form-async-submit-validation",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "src/index.tsx",
+  "dependencies": {
+    "react": "16.8.3",
+    "react-dom": "16.8.3",
+    "react-hook-form": "latest",
+    "react-scripts": "3.4.3"
+  },
+  "devDependencies": {
+    "typescript": "^4.0.2"
+  },
+  "scripts": {
+    "start": "react-app-rewired start",
+    "build": "react-app-rewired build",
+    "test": "react-app-rewired test --env=jsdom",
+    "eject": "react-app-rewired eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
